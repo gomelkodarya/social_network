@@ -10,7 +10,7 @@ import {Music} from "./components/Music/Music";
 import {Settings} from "./components/Settings/Settings";
 import {ActionsPropsTypes} from "./redux/state";
 
-
+//test commit
 
 export type PostPropsType = {
     id: number
